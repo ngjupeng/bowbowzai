@@ -15,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bowbowzai&show_icons=true&locale=en&layout=compact" alt="bowbowzai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bowbowzai&show_icons=true&locale=en" alt="bowbowzai" /></p>
+<p style="margin-top:10px">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bowbowzai&show_icons=true&locale=en" alt="bowbowzai" /></p>
