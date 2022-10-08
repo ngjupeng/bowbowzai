@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bowbowzai&label=Profile%20views&color=0e75b6&style=flat" alt="bowbowzai" /> </p>
 
+- 🔭 I’m currently finding **front end job**
+
 - 🌱 I’m currently learning **expressjs, solidity and smart contracts**
 
 - 📫 How to reach me **jupeng2015@gmail.com**
