@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently finding **front end job**
 
-- 🌱 I’m currently learning **expressjs, solidity and smart contracts**
+- 🌱 I’m currently learning **mern stack**
 
 - 📫 How to reach me **jupeng2015@gmail.com**
-
-- ⚡ Fun fact **I am interested in the new techniques in the field of Web 3.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
