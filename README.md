@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ng Ju Peng</h1>
-<h3 align="center">A self-taught front end developer from Malaysia, currently learning backend and also blockchain technologies</h3>
+<h3 align="center">A self-taught programmer, currently learning backend and also blockchain technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bowbowzai&label=Profile%20views&color=0e75b6&style=flat" alt="bowbowzai" /> </p>
 
