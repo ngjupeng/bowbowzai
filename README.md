@@ -1,5 +1,5 @@
 <h1 align="center">Hi, Ju Peng here <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
-<h3 align="center">A self-taught programmer, interested in blockchain, networking and reinforcement learning </h3>
+<h3 align="center">A self-taught programmer, interested in blockchain</h3>
 
 <div align="center">
       <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=bowbowzai&count_private=true&show_icons=true&theme=tokyonight" alt="bowbowzai's github stats"></td>
