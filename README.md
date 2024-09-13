@@ -2,13 +2,8 @@
 <h3 align="center">A self-taught programmer, interested in blockchain</h3>
 
 <div align="center">
-      <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=bowbowzai&count_private=true&show_icons=true&theme=tokyonight" alt="bowbowzai's github stats"></td>
+      <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=ngjupeng&count_private=true&show_icons=true&theme=tokyonight" alt="jupeng's github stats"></td>
 </div>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ng-ju-peng-a0b999249" height="30" width="40" />
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vwrtQZPyXR" height="30" width="40" />
 </p>
 
 
